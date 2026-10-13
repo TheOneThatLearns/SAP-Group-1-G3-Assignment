@@ -63,7 +63,7 @@ while sect!=6:
   if sect==1:
     print("num1")
 
-#Azfar Hariz
+#Azfar Hariz :D
   elif sect==2:
     water_used = tankcap - watlvl
     print("An amount of", f"{water_used:.2f}", "L has been used")
